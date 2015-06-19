@@ -35,7 +35,7 @@ user='<if needed else remove this line>'
 pw='<if needed else remove this line>'
 ```
 
-Another sample configuration assuming one wishes to use uri's:
+Another sample configuration assuming one wishes to use URIs:
 
 ```ini
 [resolver]
